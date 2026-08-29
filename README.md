@@ -35,21 +35,9 @@ Postman
 Vercel
 🎨 Design Focus
 
-Eventera was built with focus on:
-
-modern UI/UX
-responsive layouts
-accessibility
-reusable design system
-clean component structure
-👥 Team Collaboration
-
-Developed collaboratively between frontend and backend teams using an agile workflow with feature branches, pull requests, API integration, and continuous testing.
-
-👩‍💻 Frontend Developer
-
 Mikolaj Swiderski
 
-🌐 Portfolio
-💼 LinkedIn
-🐙 GitHub
+To enter admin panel change the URL at the end to login.html if the user already exists, if not enter register.html
+
+[Register new user to admin](https://swiderekm.github.io/webbshop-projekt/login.html)
+[Login an already existing user to admin](https://swiderekm.github.io/webbshop-projekt/login.html)
