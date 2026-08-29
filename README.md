@@ -47,14 +47,9 @@ clean component structure
 
 Developed collaboratively between frontend and backend teams using an agile workflow with feature branches, pull requests, API integration, and continuous testing.
 
-🚀 Installation
-git clone https://github.com/Frida1989/webbshop-2026-fe.git
-
-Open with Live Server or run locally.
-
 👩‍💻 Frontend Developer
 
-Farideh Pakdaman
+Mikolaj Swiderski
 
 🌐 Portfolio
 💼 LinkedIn
