@@ -40,4 +40,6 @@ Mikolaj Swiderski
 To enter admin panel change the URL at the end to login.html if the user already exists, if not enter register.html
 
 [Register new user to admin](https://swiderekm.github.io/webbshop-projekt/login.html)
+
+
 [Login an already existing user to admin](https://swiderekm.github.io/webbshop-projekt/login.html)
