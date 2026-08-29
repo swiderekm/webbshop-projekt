@@ -1,5 +1,4 @@
-Jag som tog del av denna projekt som examination i Frontend projekt och Agila metoder. Då jobbade jag med en annan frontend-utvecklare student och 3 personer från backend-dev klassen
-Då vi jobbade enligt AGILE.
+I worked on this project as part of my examination in Frontend Development and Agile Methods. I collaborated with another frontend development student and three students from the Backend Development class. We worked according to the Agile methodology.
 
 Eventera 🎟️✨
 
